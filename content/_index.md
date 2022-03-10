@@ -1,6 +1,6 @@
 ---
 title: 'Homepage'
-meta_title: 'Hugo Serif Theme'
+meta_title: '江苏明日光伏科技有限公司'
 description: "Serif is a modern business theme for Hugo."
 intro_image: "images/logo/logo-slide11.png"
 intro_image_absolute: false
